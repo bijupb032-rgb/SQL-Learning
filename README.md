@@ -3,12 +3,9 @@ This repository contains my SQL learning and practice exercises.
 
 ## Topics Covered
 
-- SELECT statements
-- Selecting specific columns
-- DISTINCT
+- SELECT & DISTINCT
+- WHERE & Filtering
 - Basic calculations
-- PEMDAS
-
 ## Database Used
 
 Parks and Recreation Database
