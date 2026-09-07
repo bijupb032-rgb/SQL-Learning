@@ -9,7 +9,7 @@ This repository contains my SQL learning and practice exercises.
 - ORDER BY
 - HAVING vs WHERE
 - Basic calculations
-- 
+  
 ## Database Used
 
 Parks and Recreation Database
