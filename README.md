@@ -5,7 +5,11 @@ This repository contains my SQL learning and practice exercises.
 
 - SELECT & DISTINCT
 - WHERE & Filtering
+- GROUP BY & Aggregate Functions
+- ORDER BY
+- HAVING vs WHERE
 - Basic calculations
+- 
 ## Database Used
 
 Parks and Recreation Database
