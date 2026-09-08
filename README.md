@@ -8,6 +8,8 @@ This repository contains my SQL learning and practice exercises.
 - GROUP BY & Aggregate Functions
 - ORDER BY
 - HAVING vs WHERE
+- LIMIT & Aliasing
+- JOINs
 - Basic calculations
   
 ## Database Used
